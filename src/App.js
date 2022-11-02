@@ -1,11 +1,12 @@
-import logo from './logo.svg';
+import MovieList from './MovieList';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <MovieList/>
     </div>
+      
   );
 }
 
